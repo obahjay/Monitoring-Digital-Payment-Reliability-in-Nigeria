@@ -161,3 +161,7 @@ The findings do not represent actual Nigerian banking transactions, customer beh
 All simulated results are controlled test outputs and must not be interpreted as observed payment incidents.
 
 The project does not use confidential employer, customer, or production transaction data.
+
+##  Acknowledgement
+
+This project was completed as part of the **SmartBizCrux Python Study Group**.
